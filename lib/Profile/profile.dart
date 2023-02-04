@@ -120,7 +120,7 @@ class _ProfileState extends State<Profile> {
                   endicon: true,
                 ),
                 ProfileMenuWidget(
-                  title: "logout",
+                  title: "Logout",
                   press: () {},
                   icon: LineAwesomeIcons.alternate_sign_out,
                   textcolor: Colors.red,
