@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349202978087",
+    "project_id": "attendence-taker-ac99a",
+    "storage_bucket": "attendence-taker-ac99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349202978087:android:57baf427cfa7c1c32d8502",
+        "android_client_info": {
+          "package_name": "com.aniket.attendence_taker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349202978087-1qdvelcbti6vqpmf7sn4hrtu9rppb2bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6488kaH-IiKro1_sTzOc2zjM_VGGq_oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349202978087-1qdvelcbti6vqpmf7sn4hrtu9rppb2bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
